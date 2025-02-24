@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.VisualStudio.JavaScript.Sdk/1.0.2191419">
+	📁 Mutual_Fund_NAV_Fetch
+	├── 📁 src
+	│   ├── taskpane.html   (Main UI)
+	│   ├── taskpane.js     (JavaScript Logic)
+	│   ├── taskpane.css    (Styling)
+	├── manifest.xml        (Office Add-in Manifest)
+	├── package.json        (For npm dependencies)
+
+</Project>
