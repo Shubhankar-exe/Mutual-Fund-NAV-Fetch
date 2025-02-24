@@ -12,6 +12,6 @@
 		<Host Name="Workbook"/>
 	</Hosts>
 	<DefaultSettings>
-		<SourceLocation DefaultValue="https://localhost:3000/taskpane.html"/>
+		<SourceLocation DefaultValue="https://github.com/Shubhankar-exe/Mutual-Fund-NAV-Fetch.git"/>
 	</DefaultSettings>
 </OfficeApp>
