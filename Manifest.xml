@@ -4,10 +4,10 @@
            xsi:type="TaskPaneApp">
 	<Id>Mutual_Fund_NAV_Fetch</Id>
 	<Version>1.0.0.0</Version>
-	<ProviderName>Shubhankar Lele</ProviderName>
+	<ProviderName>ShubhankarLele</ProviderName>
 	<DefaultLocale>en-US</DefaultLocale>
-	<DisplayName>Mutual Fund NAV Fetch</DisplayName>
-	<Description>Fetches NAV data from AMFI</Description>
+	<DisplayName>MutualFundNAVFetch</DisplayName>
+	<Description>FetchesNAVdatafromAMFI</Description>
 	<Hosts>
 		<Host Name="Workbook"/>
 	</Hosts>
